@@ -87,7 +87,7 @@ Monitor abnormal request patterns and use network segmentation.
 
 ## 📸 Screenshot
 
-![Exploitation Image Of Scenario 2](https://github.com/hovikhanh/ssrf-demo/images/Picture2.png "Exploitation Image Of Scenario 2")
+![Exploitation Image Of Scenario 2](https://github.com/hovikhanh/ssrf-demo/blob/main/images/Picture2.png "Exploitation Image Of Scenario 2")
 
 ## 🔗 References
 
