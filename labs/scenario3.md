@@ -93,7 +93,9 @@ Confirm SSRF behavior even if the browser shows no visible result.
 
 ## 📸 Screenshot
 
-![Exploitation Image Of Scenario 3](https://github.com/hovikhanh/ssrf-demo/images/Picture3.png "Exploitation Image Of Scenario 3")
+![Exploitation Image Of Scenario 3.1](https://github.com/hovikhanh/ssrf-demo/blob/main/images/Picture3.1.png "Exploitation Image Of Scenario 3.1")
+
+![Exploitation Image Of Scenario 3.2](https://github.com/hovikhanh/ssrf-demo/blob/main/images/Picture3.2.png "Exploitation Image Of Scenario 3.2")
 
 ## 🔗 References
 

@@ -92,7 +92,7 @@ Use a proxy layer or SSRF-aware firewall to filter requests.
 
 ## 📸 Screenshot
 
-![Exploitation Image Of Scenario 1](https://github.com/hovikhanh/ssrf-demo/images/Picture1.png "Exploitation Image Of Scenario 1")
+![Exploitation Image Of Scenario 1](https://github.com/hovikhanh/ssrf-demo/blob/main/images/Picture1.png "Exploitation Image Of Scenario 1")
 
 ## 🔗 References
 

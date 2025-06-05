@@ -100,7 +100,9 @@ Send the full chained request and observe the server’s response.
 
 ## 📸 Screenshot
 
-![Exploitation Image Of Scenario 5](https://github.com/hovikhanh/ssrf-demo/images/Picture5.png "Exploitation Image Of Scenario 5")
+![Exploitation Image Of Scenario 5.1](https://github.com/hovikhanh/ssrf-demo/blob/main/images/Picture5.1.png "Exploitation Image Of Scenario 5.1")
+
+![Exploitation Image Of Scenario 5.2](https://github.com/hovikhanh/ssrf-demo/blob/main/images/Picture5.2.png "Exploitation Image Of Scenario 5.2")
 
 ## 🔗 References
 

@@ -109,7 +109,7 @@ Can be combined with file inclusion or RCE vectors.
 
 ## 📸 Screenshot
 
-![Exploitation Image Of Scenario 6](https://github.com/hovikhanh/ssrf-demo/images/Picture6.png "Exploitation Image Of Scenario 6")
+![Exploitation Image Of Scenario 6](https://github.com/hovikhanh/ssrf-demo/blob/main/images/Picture6.png "Exploitation Image Of Scenario 6")
 
 ## 🔗 References
 

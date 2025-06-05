@@ -104,7 +104,7 @@ Observe any different responses that suggest successful SSRF.
 
 ## 📸 Screenshot
 
-![Exploitation Image Of Scenario 4](https://github.com/hovikhanh/ssrf-demo/images/Picture4.png "Exploitation Image Of Scenario 4")
+![Exploitation Image Of Scenario 4](https://github.com/hovikhanh/ssrf-demo/blob/main/images/Picture4.png "Exploitation Image Of Scenario 4")
 
 ## 🔗 References
 
